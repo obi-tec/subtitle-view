@@ -1,7 +1,7 @@
 name: subtitle_view
-description: A new Flutter package project.
+description: A view that show subtitle based on time in milliseconds and WebVtt url.
 version: 0.0.1
-homepage:
+homepage: https://github.com/obi-tec/subtitle-view
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
