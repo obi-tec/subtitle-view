@@ -1,6 +1,6 @@
 name: subtitle_view
 description: A view that show subtitle based on time in milliseconds and WebVtt url.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/obi-tec/subtitle-view
 
 environment:
